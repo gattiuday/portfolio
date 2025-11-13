@@ -5,6 +5,18 @@ title: Home
 
 # Supply Chain & Data Analyst
 
+<div id="hero-animation" style="width: 300px; height: 300px; margin: 20px auto;"></div>
+
+<script>
+    // Load hero animation
+    lottie.loadAnimation({
+          container: document.getElementById('hero-animation'),
+          renderer: 'svg',
+          loop: true,
+          autoplay: true,
+          path: 'https://lottie.host/6d0f02e8-ca47-4d7d-bc2b-8a95c6b6f0e3/ywxLBpcaHV.json'
+              });
+  </script>
 
 ---
 
