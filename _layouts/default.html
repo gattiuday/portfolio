@@ -345,5 +345,20 @@
       {{ content }}
     </div>
 
+        <!-- Initialize Lottie Animations -->
+        <script>
+                // Initialize hero animation if container exists
+                const heroAnimContainer = document.getElementById('hero-animation');
+                if (heroAnimContainer) {
+                          lottie.loadAnimation({
+                                      container: heroAnimContainer,
+                                      renderer: 'svg',
+                                      loop: true,
+                                      autoplay: true,
+                                      path: 'https://lottie.host/6d0f02e8-ca47-4d7d-bc2b-8a95c6b6f0e3/ywxLBpcaHV.json'
+                                                });
+                        }
+                      </script>
+
   </body>
 </html>
