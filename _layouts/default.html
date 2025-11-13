@@ -66,11 +66,21 @@
         font-size: 0.9rem;
         font-weight: 400;
         transition: all 0.2s ease;
+              transform: scale(1);
+      outline: none;
       }
       
       .nav-links a:hover {
         background: rgba(0, 0, 0, 0.04);
         color: #0066cc;
+              transform: scale(1.05);
+      }
+
+            .nav-links a:active,
+      .nav-links a:focus {
+        text-decoration: none;
+        outline: none;
+        transform: scale(0.98);
       }
       
       /* Main Content Container */
