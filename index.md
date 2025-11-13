@@ -3,62 +3,119 @@ layout: default
 title: Home
 ---
 
-# Supply Chain & Data Analyst
+# Uday Gatti
+## Data Analyst & Supply Chain Expert
 
+**Transforming Complex Data into Strategic Business Decisions**
+
+Data Analyst with **2 years of proven expertise** transforming complex datasets into actionable insights that drive supply chain optimization and operational excellence. 
+
+**Key Results:** 9% inventory accuracy improvement | 15% stockout reduction | 25% failure reduction | 20% efficiency gains
 
 ---
 
 ## About Me
 
-Data analyst with **2 years of experience** transforming complex datasets into meaningful insights that drive supply chain optimization. I specialize in improving inventory performance, enhancing operational efficiency, and supporting data-driven decision making through advanced analytics and collaborative teamwork.
+Specialized in designing data-driven solutions across inventory management, sales forecasting, and process improvement. As a strategic problem-solver, I combine advanced analytics, machine learning, and data visualization to help organizations make confident, data-informed decisions.
 
 ---
 
 ## What I Do
 
-**Transform Data into Action**  
-I turn raw numbers into strategic insights that help businesses make smarter decisions.
+### 📊 Data Analytics & Insights
+Transform raw data into clear, actionable insights. Analyze complex datasets across supply chain, CRM, and operations to uncover trends and opportunities.
 
-**Optimize Supply Chain Operations**  
-Improving inventory management, reducing costs, and streamlining processes across the supply chain.
+### 📈 Data Visualization & Dashboards
+Design intuitive, interactive dashboards that tell compelling data stories. From real-time metrics to strategic KPIs.
 
-**Drive Business Intelligence**  
-Building dashboards and reports that provide real-time visibility into key performance metrics.
+### 🤖 Predictive Analytics & ML
+Build ML models for forecasting, predictive maintenance, and optimization. XGBoost sales forecasting, 25% failure reduction.
 
-**Enable Process Improvement**  
-Identifying bottlenecks and implementing data-backed solutions to enhance operational efficiency.
+### 🔄 Supply Chain Optimization
+Analyze inventory patterns, forecast demand, optimize stock turnover. 5% inventory reduction, 13% stock turnover improvement.
 
-**Foster Cross-Functional Collaboration**  
-Working with teams to adopt analytics initiatives and implement data-driven approaches.
+### ☁️ Data Engineering & Cloud
+Architect data pipelines, ETL processes, analytics infrastructure on GCP, AWS, Azure. BigQuery, NoSQL expertise.
 
 ---
 
 ## Core Competencies
 
-- **Data Insights & Visualization** – Python, R, SQL, Tableau, Excel
-- **Supply Chain Optimization** – Inventory management, demand forecasting, logistics
-- **Business Intelligence** – Dashboard design, KPI tracking, reporting
-- **Process Improvement** – Root cause analysis, efficiency optimization
-- **Cross-Functional Teamwork** – Stakeholder collaboration, change management
+**Analytics & Modeling**
+Data Analytics | Data Visualization | Machine Learning | Predictive Modeling | Big Data | Statistical Analysis
+
+**Technical Tools**
+Python | R | SQL | BigQuery | Tableau | Power BI | AWS | GCP | Azure | Excel | Oracle BI
+
+**Business & Leadership**
+Supply Chain Optimization | Inventory Management | Process Improvement | Agile/Scrum | Leadership
 
 ---
 
-## Technical Skills
+## Experience Highlights
 
-**Programming & Analysis**  
-Python, R, SQL, VBA, DAX
+**Inventory & Sales Data Analyst** - Gran Trade Inc
+- ✓ Improved inventory accuracy by 9%
+- ✓ Reduced stockouts by 15% using demand forecasting
+- ✓ Analyzed 1,000+ SKUs to identify performance patterns
+- ✓ Built interactive dashboards tracking real-time metrics
 
-**Visualization & BI Tools**  
-Tableau, Power BI, Excel, Looker
+**Inventory Management Analyst** - Capstone Project
+- ✓ Reduced excess inventory by 5%
+- ✓ Improved stock turnover ratio by 13%
+- ✓ Developed comprehensive inventory analysis framework
 
-**Supply Chain Systems**  
-SAP, Oracle SCM, JDA/Blue Yonder, Manhattan Associates
+**Data Analyst** - Smart Internz
+- ✓ Built predictive maintenance models reducing failures by 25%
+- ✓ Designed operational dashboards and KPI systems
+- ✓ Developed ML models for anomaly detection
 
-**Advanced Analytics**  
-Predictive Modeling, Statistical Analysis, Machine Learning, Forecasting
+**Data Analyst** - Cognibot
+- ✓ Engineered data collection and ingestion systems
+- ✓ Designed dashboards improving efficiency by 20%
+- ✓ Supported data-driven decision-making across teams
 
 ---
 
-## Explore My Work
+## Project Highlights
 
-*Use the navigation menu above to explore my experience, projects, skills, and education.*
+**NCAA Ticket Sales Forecast**
+Advanced predictive modeling using XGBoost and Deep Neural Networks for ticket sales forecasting.
+
+**Global Food Security Analysis**
+Large-scale data visualization in Tableau analyzing global food security trends across 50+ countries.
+
+**Firm Bankruptcy Prediction Model**
+Classification model using SAS Enterprise Miner with 89% accuracy.
+
+---
+
+## Education & Certifications
+
+**Master of Science** - Analytics & Systems
+University of Bridgeport | Specialized in data science and machine learning
+
+**Bachelor of Engineering** - Computer Science
+Sathyabama University
+
+**Professional Certifications**
+- ✓ Google Data Analytics Professional Certificate
+- ✓ IBM Data Analyst Professional Certificate
+- ✓ Microsoft Power BI Data Analyst Associate
+- ✓ CompTIA Security+ Data Analyst (Data+)
+
+**Leadership & Recognition**
+- Co-founder, ACM Student Chapter at University of Bridgeport
+- Member, Delta Mu Delta Honor Society
+- IEEE Published Author: "Mood-based Music Recommendation Using Machine Learning"
+
+---
+
+## Let's Connect
+
+**Location:** Phoenix, AZ  
+**Email:** gattiuday@gmail.com  
+**Portfolio:** [Explore Projects](/portfolio/projects)  
+**LinkedIn:** [Connect](https://linkedin.com)
+
+*Interested in collaborating? Let's connect and explore how data-driven strategies can transform your business.*
