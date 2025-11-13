@@ -5,51 +5,58 @@ title: Education
 
 # 🎓 Education
 
-## Master of Science in Analytics
-**Arizona State University** | Tempe, AZ  
-*Aug 2023 - Present*  
-GPA: 4.0/4.0
+## University of Bridgeport, The Ernest C. Trefz School of Business
+**Master of Science in Analytics and Systems**  
+Bridgeport, CT  
+*Graduated: May 2025*
 
-### Relevant Coursework
-- Applied Machine Learning
-- Regression and Time Series
-- Data Visualization
-- Database Management
-- Data Mining
-- Statistical Machine Learning
-- Optimization
+### Key Achievements
+- Member, Delta Mu Delta International Business Honor Society (Theta Delta Chapter, 2025)
+- Completed Capstone Project: Inventory Management Analysis
 
 ---
 
-## Bachelor of Technology in Mechanical Engineering
-**Jawaharlal Nehru Technological University** | Hyderabad, India  
-*Aug 2018 - May 2022*  
-GPA: 3.6/4.0
+## Sathyabama University
+**Bachelor of Engineering in Computer Science & Engineering**  
+Chennai, India  
+*Graduated: May 2023*
 
-### Relevant Coursework
-- Operations Research
-- Industrial Engineering
-- Quality Control and Reliability Engineering
-- Computer Integrated Manufacturing
-- Production Planning and Control
+### Leadership & Activities
+- Cofounder, ACM Student Chapter, Sathyabama University
+- Founded and led team of 8 to increase student participation
+- Published research: "Mood-Enhancing Music Recommendation System based on Audio Signals and Emotions" (IEEE XPLORE)
 
 ---
 
 ## Certifications
 
-### Google Data Analytics Professional Certificate
+### 🎯 Google Data Analytics Professional Certificate
 **Google** | 2024
 - Data preparation and cleaning
 - Data visualization with Tableau
 - Data analysis with SQL and R
 - Case study portfolio development
 
-### Microsoft Power BI Data Analyst Associate
-**Microsoft** | 2024  
+### 📊 IBM Data Analyst Professional Certificate
+**IBM** | 2024
+- Python for data analysis
+- Data visualization
+- Statistical analysis
+- SQL databases
+
+### 📊 Microsoft Certified: Power BI Data Analyst Associate
+**Microsoft** | 2024
 - Data modeling and visualization
 - DAX calculations
 - Power Query transformations
-- Dashboard development
+- Dashboard development and deployment
+
+### 💻 CompTIA Data+
+**CompTIA** | 2024
+- Data concepts and environments
+- Data mining and analysis
+- Data visualization
+- Data governance and quality
 
 ---
 
