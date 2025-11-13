@@ -1,7 +1,3 @@
-# 👋 UDAY GATTI
-
-**Data Analyst | Analytics & Systems Professional**
-
 Phoenix, AZ | 📧 gattiuday@gmail.com | 📱 551-556-4585
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://in.linkedin.com/in/gattiuday)
