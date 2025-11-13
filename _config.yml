@@ -1,3 +1,16 @@
 title: Uday Gatti
 description: Data Analyst | Analytics & Systems Professional
-theme: jekyll-theme-minimal
+email: gattiuday@gmail.com
+location: Phoenix, AZ
+linkedin_url: https://in.linkedin.com/in/gattiuday
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - about.md
+  - skills.md
+  - experience.md
+  - projects.md
+  - education.md
