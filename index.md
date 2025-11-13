@@ -22,19 +22,19 @@ Specialized in designing data-driven solutions across inventory management, sale
 
 ## What I Do
 
-### 📊 Data Analytics & Insights
+### Data Analytics & Insights
 Transform raw data into clear, actionable insights. Analyze complex datasets across supply chain, CRM, and operations to uncover trends and opportunities.
 
-### 📈 Data Visualization & Dashboards
+### Data Visualization & Dashboards
 Design intuitive, interactive dashboards that tell compelling data stories. From real-time metrics to strategic KPIs.
 
-### 🤖 Predictive Analytics & ML
+### Predictive Analytics & ML
 Build ML models for forecasting, predictive maintenance, and optimization. XGBoost sales forecasting, 25% failure reduction.
 
-### 🔄 Supply Chain Optimization
+### Supply Chain Optimization
 Analyze inventory patterns, forecast demand, optimize stock turnover. 5% inventory reduction, 13% stock turnover improvement.
 
-### ☁️ Data Engineering & Cloud
+### Data Engineering & Cloud
 Architect data pipelines, ETL processes, analytics infrastructure on GCP, AWS, Azure. BigQuery, NoSQL expertise.
 
 ---
@@ -55,25 +55,25 @@ Supply Chain Optimization | Inventory Management | Process Improvement | Agile/S
 ## Experience Highlights
 
 **Inventory & Sales Data Analyst** - Gran Trade Inc
-- ✓ Improved inventory accuracy by 9%
-- ✓ Reduced stockouts by 15% using demand forecasting
-- ✓ Analyzed 1,000+ SKUs to identify performance patterns
-- ✓ Built interactive dashboards tracking real-time metrics
+- Improved inventory accuracy by 9%
+- Reduced stockouts by 15% using demand forecasting
+- Analyzed 1,000+ SKUs to identify performance patterns
+- Built interactive dashboards tracking real-time metrics
 
 **Inventory Management Analyst** - Capstone Project
-- ✓ Reduced excess inventory by 5%
-- ✓ Improved stock turnover ratio by 13%
-- ✓ Developed comprehensive inventory analysis framework
+- Reduced excess inventory by 5%
+- Improved stock turnover ratio by 13%
+- Developed comprehensive inventory analysis framework
 
 **Data Analyst** - Smart Internz
-- ✓ Built predictive maintenance models reducing failures by 25%
-- ✓ Designed operational dashboards and KPI systems
-- ✓ Developed ML models for anomaly detection
+- Built predictive maintenance models reducing failures by 25%
+- Designed operational dashboards and KPI systems
+- Developed ML models for anomaly detection
 
 **Data Analyst** - Cognibot
-- ✓ Engineered data collection and ingestion systems
-- ✓ Designed dashboards improving efficiency by 20%
-- ✓ Supported data-driven decision-making across teams
+- Engineered data collection and ingestion systems
+- Designed dashboards improving efficiency by 20%
+- Supported data-driven decision-making across teams
 
 ---
 
@@ -99,10 +99,10 @@ University of Bridgeport | Specialized in data science and machine learning
 Sathyabama University
 
 **Professional Certifications**
-- ✓ Google Data Analytics Professional Certificate
-- ✓ IBM Data Analyst Professional Certificate
-- ✓ Microsoft Power BI Data Analyst Associate
-- ✓ CompTIA Security+ Data Analyst (Data+)
+- Google Data Analytics Professional Certificate
+- IBM Data Analyst Professional Certificate
+- Microsoft Power BI Data Analyst Associate
+- CompTIA Security+ Data Analyst (Data+)
 
 **Leadership & Recognition**
 - Co-founder, ACM Student Chapter at University of Bridgeport
@@ -115,7 +115,7 @@ Sathyabama University
 
 **Location:** Phoenix, AZ  
 **Email:** gattiuday@gmail.com  
-**Portfolio:** [Explore Projects](/portfolio/projects)  
-**LinkedIn:** [Connect](https://linkedin.com)
+**Portfolio:** Explore Projects  
+**LinkedIn:** Connect
 
-*Interested in collaborating? Let's connect and explore how data-driven strategies can transform your business.*
+Interested in collaborating? Let's connect and explore how data-driven strategies can transform your business.
