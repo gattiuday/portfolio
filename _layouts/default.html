@@ -342,11 +342,14 @@
 
     <!-- Main Content -->
     <div class="main-content">
+            {% if page.title == 'Home' %}
+              <div id="hero-animation" style="width: 300px; height: 300px; margin: 20px auto;"></div>
+            {% endif %}
       {{ content }}
     </div>
 
         <!-- Initialize Lottie Animations -->
-        <script>
+      cript>
                 // Initialize hero animation if container exists
                 const heroAnimContainer = document.getElementById('hero-animation');
                 if (heroAnimContainer) {
