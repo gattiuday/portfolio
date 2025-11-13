@@ -6,8 +6,7 @@ title: Home
 # Welcome to My Portfolio
 
 ## Uday Gatti
-### Data Analyst | Analytics & Systems Professional
-
+### Supply Chain Data Analyst | Analytics & Systems Professional
 📍 Phoenix, AZ | ✉ [gattiuday@gmail.com](mailto:gattiuday@gmail.com) | [LinkedIn](https://in.linkedin.com/in/gattiuday)
 
 ---
@@ -55,4 +54,4 @@ title: Home
 
 ## Summary
 
-Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights. Lead teams in optimizing processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
+Supply Chain Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights for supply chain optimization. Lead teams in optimizing inventory processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
