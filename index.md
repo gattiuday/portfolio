@@ -3,37 +3,63 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
+# Supply Chain & Data Analyst
 
-## Uday Gatti
-### Supply Chain Data Analyst | Analytics & Systems Professional
-
-📍 Phoenix, AZ | ✉️ [gattiuday@gmail.com](mailto:gattiuday@gmail.com) | [LinkedIn](https://in.linkedin.com/in/gattiuday)
+**Phoenix, AZ** | 📧 [gattiuday@gmail.com](mailto:gattiuday@gmail.com)
 
 ---
 
 ## About Me
 
-Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights for supply chain optimization. Lead teams in optimizing inventory processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
-
-### What I Bring
-
-- 📊 **Data Analysis & Visualization** - Transform raw data into actionable insights using Python, R, SQL, and Tableau
-- 🚚 **Supply Chain Optimization** - Develop strategies to improve inventory management and reduce operational costs  
-- 📈 **Business Intelligence** - Create dashboards and reports to support strategic decision-making
-- ⚙️ **Process Improvement** - Identify bottlenecks and implement solutions to enhance efficiency
-- 👥 **Team Leadership** - Guide teams in implementing data-driven approaches to supply chain challenges
-
-### Technical Expertise
-
-**Languages & Tools:** Python, R, SQL, VBA, DAX
-
-**Visualization:** Tableau, Power BI, Excel, Looker
-
-**Supply Chain Systems:** SAP, Oracle SCM, JDA/Blue Yonder, Manhattan Associates
-
-**Analytics:** Predictive Modeling, Statistical Analysis, Machine Learning, Forecasting
+Data analyst with **2 years of experience** transforming complex datasets into meaningful insights that drive supply chain optimization. I specialize in improving inventory performance, enhancing operational efficiency, and supporting data-driven decision making through advanced analytics and collaborative teamwork.
 
 ---
+
+## What I Do
+
+**Transform Data into Action**  
+I turn raw numbers into strategic insights that help businesses make smarter decisions.
+
+**Optimize Supply Chain Operations**  
+Improving inventory management, reducing costs, and streamlining processes across the supply chain.
+
+**Drive Business Intelligence**  
+Building dashboards and reports that provide real-time visibility into key performance metrics.
+
+**Enable Process Improvement**  
+Identifying bottlenecks and implementing data-backed solutions to enhance operational efficiency.
+
+**Foster Cross-Functional Collaboration**  
+Working with teams to adopt analytics initiatives and implement data-driven approaches.
+
+---
+
+## Core Competencies
+
+- **Data Insights & Visualization** – Python, R, SQL, Tableau, Excel
+- **Supply Chain Optimization** – Inventory management, demand forecasting, logistics
+- **Business Intelligence** – Dashboard design, KPI tracking, reporting
+- **Process Improvement** – Root cause analysis, efficiency optimization
+- **Cross-Functional Teamwork** – Stakeholder collaboration, change management
+
+---
+
+## Technical Skills
+
+**Programming & Analysis**  
+Python, R, SQL, VBA, DAX
+
+**Visualization & BI Tools**  
+Tableau, Power BI, Excel, Looker
+
+**Supply Chain Systems**  
+SAP, Oracle SCM, JDA/Blue Yonder, Manhattan Associates
+
+**Advanced Analytics**  
+Predictive Modeling, Statistical Analysis, Machine Learning, Forecasting
+
+---
+
+## Explore My Work
 
 *Use the navigation menu above to explore my experience, projects, skills, and education.*
