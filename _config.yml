@@ -4,9 +4,6 @@ email: gattiuday@gmail.com
 location: Phoenix, AZ
 linkedin_url: https://in.linkedin.com/in/gattiuday
 
-# Theme settings
-theme: jekyll-theme-cayman
-
 # Navigation
 header_pages:
   - about.md
