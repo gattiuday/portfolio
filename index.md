@@ -5,7 +5,9 @@ title: Home
 
 # Supply Chain & Data Analyst
 
+{::nomarkdown}
 <div id="hero-animation" style="width: 300px; height: 300px; margin: 20px auto;"></div>
+{:/nomarkdown}
 
 
 
