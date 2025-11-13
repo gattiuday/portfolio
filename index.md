@@ -7,51 +7,33 @@ title: Home
 
 ## Uday Gatti
 ### Supply Chain Data Analyst | Analytics & Systems Professional
-📍 Phoenix, AZ | ✉ [gattiuday@gmail.com](mailto:gattiuday@gmail.com) | [LinkedIn](https://in.linkedin.com/in/gattiuday)
+
+📍 Phoenix, AZ | ✉️ [gattiuday@gmail.com](mailto:gattiuday@gmail.com) | [LinkedIn](https://in.linkedin.com/in/gattiuday)
 
 ---
 
-## Quick Links
+## About Me
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
-  <a href="about" style="text-decoration: none;">
-    <div style="border: 2px solid #159957; padding: 20px; border-radius: 8px; text-align: center; transition: all 0.3s;">
-      <h3>🏢 About Me</h3>
-      <p>Learn about my background and experience</p>
-    </div>
-  </a>
-  
-  <a href="skills" style="text-decoration: none;">
-    <div style="border: 2px solid #159957; padding: 20px; border-radius: 8px; text-align: center;">
-      <h3>🔧 Technical Skills</h3>
-      <p>View my technical expertise</p>
-    </div>
-  </a>
-  
-  <a href="experience" style="text-decoration: none;">
-    <div style="border: 2px solid #159957; padding: 20px; border-radius: 8px; text-align: center;">
-      <h3>💼 Experience</h3>
-      <p>Explore my professional journey</p>
-    </div>
-  </a>
-  
-  <a href="projects" style="text-decoration: none;">
-    <div style="border: 2px solid #159957; padding: 20px; border-radius: 8px; text-align: center;">
-      <h3>📂 Projects</h3>
-      <p>Check out my featured work</p>
-    </div>
-  </a>
-  
-  <a href="education" style="text-decoration: none;">
-    <div style="border: 2px solid #159957; padding: 20px; border-radius: 8px; text-align: center;">
-      <h3>🎓 Education</h3>
-      <p>See my academic background</p>
-    </div>
-  </a>
-</div>
+Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights for supply chain optimization. Lead teams in optimizing inventory processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
+
+### What I Bring
+
+- 📊 **Data Analysis & Visualization** - Transform raw data into actionable insights using Python, R, SQL, and Tableau
+- 🚚 **Supply Chain Optimization** - Develop strategies to improve inventory management and reduce operational costs  
+- 📈 **Business Intelligence** - Create dashboards and reports to support strategic decision-making
+- ⚙️ **Process Improvement** - Identify bottlenecks and implement solutions to enhance efficiency
+- 👥 **Team Leadership** - Guide teams in implementing data-driven approaches to supply chain challenges
+
+### Technical Expertise
+
+**Languages & Tools:** Python, R, SQL, VBA, DAX
+
+**Visualization:** Tableau, Power BI, Excel, Looker
+
+**Supply Chain Systems:** SAP, Oracle SCM, JDA/Blue Yonder, Manhattan Associates
+
+**Analytics:** Predictive Modeling, Statistical Analysis, Machine Learning, Forecasting
 
 ---
 
-## Summary
-
-Supply Chain Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights for supply chain optimization. Lead teams in optimizing inventory processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
+*Use the navigation menu above to explore my experience, projects, skills, and education.*
