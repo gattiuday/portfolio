@@ -5,7 +5,6 @@ title: Home
 
 # Supply Chain & Data Analyst
 
-**Phoenix, AZ** | 📧 [gattiuday@gmail.com](mailto:gattiuday@gmail.com)
 
 ---
 
