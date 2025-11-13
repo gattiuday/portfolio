@@ -318,9 +318,7 @@
                                     });
                         });
               </script>
-          <!-- Lottie Animation Library -->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
-
+          
     
   </head>
 
@@ -344,25 +342,11 @@
     <!-- Main Content -->
     <div class="main-content">
             {% if page.title == 'Home' %}
-              <div id="hero-animation" style="width: 300px; height: 300px; margin: 20px auto;"></div>
+
             {% endif %}
       {{ content }}
     </div>
 
-        <!-- Initialize Lottie Animations -->
-      <script>
-                // Initialize hero animation if container exists
-                const heroAnimContainer = document.getElementById('hero-animation');
-                if (heroAnimContainer) {
-                          lottie.loadAnimation({
-                                      container: heroAnimContainer,
-                                      renderer: 'svg',
-                                      loop: true,
-                                      autoplay: true,
-                                      path: 'https://lottie.host/6d0f02e8-ca47-4d7d-bc2b-8a95c6b6f0e3/ywxLBpcaHV.json'
-                                                });
-                        }
-                      </script>
-
+        
   </body>
 </html>
