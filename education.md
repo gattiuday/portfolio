@@ -3,100 +3,53 @@ layout: default
 title: Education
 ---
 
-# 🎓 Education & Certifications
+# 🎓 Education
 
-## Academic Background
-
-### Master of Science in Analytics
+## Master of Science in Analytics
 **Arizona State University** | Tempe, AZ  
-*Expected Graduation: 2025*  
-GPA: 3.8/4.0
+*Aug 2023 - Present*  
+GPA: 4.0/4.0
 
-#### Relevant Coursework
-- Advanced Data Analytics
-- Supply Chain Management
-- Statistical Modeling
-- Machine Learning
-- Business Intelligence
-- Operations Research
+### Relevant Coursework
+- Applied Machine Learning
+- Regression and Time Series
+- Data Visualization
 - Database Management
-- Optimization Techniques
+- Data Mining
+- Statistical Machine Learning
+- Optimization
 
 ---
 
-### Bachelor of Technology in Mechanical Engineering
-**Jawaharlal Nehru Technological University** | India  
-*Graduated: 2022*  
+## Bachelor of Technology in Mechanical Engineering
+**Jawaharlal Nehru Technological University** | Hyderabad, India  
+*Aug 2018 - May 2022*  
 GPA: 3.6/4.0
 
-#### Relevant Coursework
-- Operations Management
+### Relevant Coursework
+- Operations Research
 - Industrial Engineering
-- Quality Control
-- Logistics Management
-- Production Planning
+- Quality Control and Reliability Engineering
+- Computer Integrated Manufacturing
+- Production Planning and Control
 
 ---
 
-## Professional Certifications
+## Certifications
 
-### 🎯 Google Data Analytics Professional Certificate
-**Google** | 2023  
-- Data cleaning and preparation
+### Google Data Analytics Professional Certificate
+**Google** | 2024
+- Data preparation and cleaning
 - Data visualization with Tableau
-- SQL for data analysis
-- R programming for analytics
+- Data analysis with SQL and R
+- Case study portfolio development
 
-### 📊 Microsoft Power BI Data Analyst
-**Microsoft** | 2023  
-- Dashboard design and development
-- DAX formulas and calculations
-- Data modeling
-- Report creation
-
-### 📦 Supply Chain Analytics Certificate
-**MIT Professional Education** | 2024  
-- Supply chain optimization
-- Inventory management strategies
-- Demand forecasting techniques
-- Logistics analytics
-
-### 🐍 Python for Data Science
-**IBM** | 2022  
-- Python programming fundamentals
-- Data analysis with pandas
-- Data visualization with matplotlib
-- NumPy for numerical computing
-
----
-
-## Technical Training
-
-- **Advanced Excel for Business Analytics** - LinkedIn Learning (2023)
-- **Tableau Desktop Specialist** - Tableau (2023)
-- **SQL for Data Analysis** - Udacity (2022)
-- **Agile Project Management** - Scrum Alliance (2024)
-- **Lean Six Sigma Green Belt** - ASQ (2023)
-
----
-
-## Academic Achievements
-
-- 🏆 Dean's List - Arizona State University (2024)
-- 🎖️ Graduate Research Assistant - ASU Supply Chain Lab (2023-2024)
-- 📚 Published research on inventory optimization in peer-reviewed journal
-- 🎯 President - ASU Analytics Club (2024)
-
----
-
-## Continuing Education
-
-Committed to continuous learning in:
-- Advanced machine learning techniques
-- Cloud computing (AWS, Azure)
-- Advanced supply chain technologies
-- Data engineering practices
-- Business strategy and management
+### Microsoft Power BI Data Analyst Associate
+**Microsoft** | 2024  
+- Data modeling and visualization
+- DAX calculations
+- Power Query transformations
+- Dashboard development
 
 ---
 
