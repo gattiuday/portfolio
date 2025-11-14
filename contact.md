@@ -17,11 +17,8 @@ I'm always open to discussing data analytics opportunities, supply chain challen
 **LinkedIn**  
 [Connect with me on LinkedIn](https://linkedin.com/in/gattiuday)
 
-**Location**  
-Phoenix, AZ
-
 **Instagram**
-[@_uday__naidu_](https://instagram.com/_uday__naidu_)
+[@_uday__naidu_](https://www.instagram.com/_uday__naidu_/)
 
 **Phone**
 5515564585
