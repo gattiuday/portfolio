@@ -3,19 +3,18 @@ layout: default
 title: Home
 ---
 
-# Uday Gatti
-## Data Analyst & Supply Chain Expert
+# Data Analyst & Supply Chain Expert
 
 **Transforming Complex Data into Strategic Business Decisions**
 
 Data Analyst with **2 years of proven expertise** transforming complex datasets into actionable insights that drive supply chain optimization and operational excellence. 
 
-**Key Results:**  
-📊 9% inventory accuracy improvement  
-📉 15% stockout reduction  
-🎯 25% failure reduction  
-⚡ 20% efficiency gains
+### Key Results
 
+- **9%** inventory accuracy improvement
+- **15%** stockout reduction  
+- **25%** failure reduction
+- **20%** efficiency gains
 ---
 
 ## About Me
