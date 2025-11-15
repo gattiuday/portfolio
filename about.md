@@ -1,38 +1,33 @@
----
-layout: default
-title: About Me
----
+<h1>About Me</h1>
 
-# About Me
+<h2>Professional Summary</h2>
+<p>
+I am a Supply Chain Data Analyst with 2 years of experience transforming complex datasets into insights that drive process optimization, cost reduction, and strategic decision-making.
+</p>
 
-## Professional Summary
+<h2>Background</h2>
+<ul>
+  <li>Supply chain optimization and inventory management</li>
+  <li>Data analysis, SQL, Python, and statistical modeling</li>
+  <li>Process improvement and operational efficiency</li>
+  <li>Team leadership and cross-functional collaboration</li>
+  <li>Customer relationship and resource management</li>
+</ul>
 
-Supply Chain Data Analyst with 2 years of experience in analyzing complex datasets and developing data-driven insights for supply chain optimization. Lead teams in optimizing inventory processes and supporting businesses with decision-making insights with expertise in customer and resource management in supply chain.
+<h2>What I Do</h2>
+<ul>
+  <li><strong>Data Analysis:</strong> Clean, analyze, and visualize data using Python, R, and BI tools</li>
+  <li><strong>Supply Chain Optimization:</strong> Enhance forecasting, reduce waste, and streamline operations</li>
+  <li><strong>Business Intelligence:</strong> Develop dashboards and reports for leadership</li>
+  <li><strong>Process Improvement:</strong> Identify bottlenecks and develop actionable solutions</li>
+  <li><strong>Team Leadership:</strong> Guide technical and operational teams toward data-driven decisions</li>
+</ul>
 
-## Background
+<h2>Contact</h2>
+<p>
+📧 gattiuday@gmail.com<br>
+🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a><br>
+📍 Phoenix, AZ
+</p>
 
-Passionate about leveraging data analytics to solve complex business problems in supply chain operations. Experienced in:
-
-- Supply chain optimization and inventory management
-- Data analysis and statistical modeling
-- Process improvement and operational efficiency
-- Team leadership and cross-functional collaboration
-- Customer relationship management
-
-## What I Do
-
-- Data Analysis: Transform raw data into actionable insights using Python, R, and advanced analytics tools
-- Supply Chain Optimization: Develop strategies to improve inventory management and reduce operational costs
-- Business Intelligence: Create dashboards and reports to support strategic decision-making
-- Process Improvement: Identify bottlenecks and implement solutions to enhance efficiency
-- Team Leadership: Guide teams in implementing data-driven approaches to supply chain challenges
-
-## Contact
-
-📧 [gattiuday@gmail.com](mailto:gattiuday@gmail.com)  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-Phoenix, AZ
-
----
-
-[← Back to Home](index.md)
+<a href="index.md">← Back to Home</a>
