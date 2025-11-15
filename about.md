@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-# 📋 About Me
+# About Me
 
 ## Professional Summary
 
@@ -21,17 +21,17 @@ Passionate about leveraging data analytics to solve complex business problems in
 
 ## What I Do
 
-- **Data Analysis**: Transform raw data into actionable insights using Python, R, and advanced analytics tools
-- **Supply Chain Optimization**: Develop strategies to improve inventory management and reduce operational costs
-- **Business Intelligence**: Create dashboards and reports to support strategic decision-making
-- **Process Improvement**: Identify bottlenecks and implement solutions to enhance efficiency
-- **Team Leadership**: Guide teams in implementing data-driven approaches to supply chain challenges
+- Data Analysis: Transform raw data into actionable insights using Python, R, and advanced analytics tools
+- Supply Chain Optimization: Develop strategies to improve inventory management and reduce operational costs
+- Business Intelligence: Create dashboards and reports to support strategic decision-making
+- Process Improvement: Identify bottlenecks and implement solutions to enhance efficiency
+- Team Leadership: Guide teams in implementing data-driven approaches to supply chain challenges
 
 ## Contact
 
 📧 [gattiuday@gmail.com](mailto:gattiuday@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📍 Phoenix, AZ
+[LinkedIn](https://linkedin.com/in/yourprofile)  
+Phoenix, AZ
 
 ---
 
