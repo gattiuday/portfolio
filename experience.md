@@ -5,61 +5,71 @@ title: Experience
 
 # 💼 Professional Experience
 
-## Data Analyst
-**Organization** | Phoenix, AZ  
-*2022 - Present*
-
-### Key Responsibilities
-- Analyze complex datasets to derive actionable insights for supply chain optimization
-- Lead cross-functional teams in implementing data-driven inventory management strategies
-- Develop and maintain dashboards and reports for executive decision-making
-- Optimize supply chain processes resulting in improved operational efficiency
-- Support business stakeholders with analytical insights for strategic planning
+## Inventory & Sales Data Analyst  
+**Gran Trade Inc** — Carlstadt, NJ  
+*June 2025 – Present*
 
 ### Key Achievements
-- 📈 Improved inventory turnover ratio through data-driven forecasting models
-- 📊 Implemented automated reporting systems reducing manual work by 40%
-- 🎯 Led team initiatives in process optimization for warehouse operations
-- 🛠️ Developed predictive models for demand planning and supply chain analytics
+- Improved inventory accuracy by **9%** through root cause analysis of stock discrepancies and optimized reconciliation workflows using QuickBooks CRM.  
+- Reduced stockouts by **15%** by analyzing sales trends across **1,000+ SKUs** and adjusting reorder points based on demand patterns.  
+- Built **5+ automated dashboards** in Excel and Power BI to track inventory KPIs, sales velocity, and aging stock, improving visibility for leadership.  
 
 ---
 
-## Supply Chain Analyst Intern
-**Previous Organization**  
-*2021 - 2022*
+## Inventory Management Analyst (Capstone Project)  
+**University of Bridgeport** — Bridgeport, CT  
+*February 2025*
 
-### Responsibilities
-- Assisted in analyzing supply chain data to identify cost reduction opportunities
-- Created visualizations and reports for inventory management
-- Supported senior analysts in demand forecasting projects
-- Conducted root cause analysis for supply chain disruptions
+### Key Contributions
+- Reduced excess inventory by **5%** and increased stock turnover by **13%** by analyzing sales and inventory trends across **500+ SKUs**.  
+- Developed Excel dashboards integrated with QuickBooks to track stock levels, reorder points, and supplier performance, increasing reporting accuracy by **20%**.  
+- Enhanced forecasting accuracy by **5%** by aligning order history with purchasing patterns and warehouse cycles.  
+
+---
+
+## Data Analyst  
+**Smart Internz** — Chennai, India  
+*January 2022 – April 2022*
 
 ### Achievements
-- Contributed to 15% reduction in excess inventory through analysis
-- Developed Excel models for inventory optimization
-- Collaborated with procurement team to improve vendor performance tracking
+- Implemented ML algorithms to predict equipment failures, reducing unexpected breakdowns by **25%**.  
+- Developed predictive models with **85% accuracy**, optimizing maintenance schedules and improving machine uptime.  
+- Created a predictive maintenance dashboard that improved equipment uptime by **20%**.  
+- Built automated weekly reporting systems, reducing report preparation time by **40%**.  
+
+---
+
+## Data Analyst  
+**Cognibot** — Chennai, India  
+*July 2021 – December 2021*
+
+### Achievements
+- Developed data collection systems improving data accuracy and reducing manual entry errors by **25%**.  
+- Analyzed real-time operational data, contributing to a **20% improvement** in overall efficiency.  
+- Built data models predicting equipment failures, reducing downtime by **15%**.  
+- Developed interactive Power BI dashboards, reducing report preparation time by **30%**.  
 
 ---
 
 ## Core Competencies
 
-### Supply Chain Management
-- Inventory optimization
-- Demand forecasting
-- Process improvement
-- Logistics analytics
+### Supply Chain & Operations
+- Inventory optimization  
+- Demand forecasting  
+- Logistics analytics  
+- Process improvement  
 
-### Data Analysis
-- Statistical modeling
-- Predictive analytics
-- Data visualization
-- Business intelligence
+### Data Analysis & BI
+- Predictive analytics  
+- Statistical modeling  
+- Data visualization  
+- Business Intelligence dashboards  
 
-### Leadership
-- Team management
-- Cross-functional collaboration
-- Project coordination
-- Stakeholder communication
+### Leadership & Collaboration
+- Team leadership  
+- Project coordination  
+- Cross-functional communication  
+- Stakeholder management  
 
 ---
 
