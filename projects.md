@@ -3,85 +3,84 @@ layout: default
 title: Projects
 ---
 
-# Featured Projects
+# 📊 Featured Projects
 
-## Supply Chain Optimization Dashboard
-Technologies: Python, Tableau, SQL  
-Duration: 6 months
-
-### Description
-Developed a comprehensive supply chain analytics dashboard to monitor inventory levels, track supplier performance, and optimize warehouse operations.
-
-### Key Features
-- Real-time inventory tracking and alerts
-- Supplier performance scorecards
-- Demand forecasting visualizations
-- Cost analysis and optimization recommendations
-
-### Impact
-- 📈 Reduced excess inventory by 25%
-- ⏱️ Improved order fulfillment time by 30%
-- Identified $500K in cost savings opportunities
-
----
-
-## Predictive Inventory Model
-Technologies: Python, R, Machine Learning  
-Duration: 4 months
+## NCAA Women’s Basketball Ticket Sales Forecast  
+**Technologies:** Python, XGBoost, Deep Neural Networks  
+**Duration:** 3 months
 
 ### Description
-Built a machine learning model to predict inventory demand and optimize stock levels across multiple distribution centers.
+Developed predictive models to forecast ticket sales for NCAA Women’s Basketball games using historical sales, team performance, and event metadata.
 
 ### Technical Approach
-- Time series analysis using ARIMA and Prophet
-- Feature engineering with historical sales data
-- Model validation and performance tuning
-- Integration with existing ERP system
+- Data preprocessing and feature engineering  
+- Built XGBoost and Deep Neural Network models  
+- Performed hyperparameter tuning for accuracy improvement  
+- Evaluated models using RMSE, MAPE, and cross-validation  
 
 ### Results
-- 85% forecast accuracy achieved
-- Reduced stockouts by 40%
-- Optimized safety stock levels
+- Achieved **96.89% accuracy** with XGBoost  
+- Achieved **97.60% accuracy** with a Deep Neural Network  
+- Enabled improved revenue strategies and attendance forecasting  
 
 ---
 
-## Customer Analytics Platform
-Technologies: SQL, Power BI, Excel  
-Duration: 3 months
+## Global Food Security Trends Analysis  
+**Technologies:** Tableau, Python, Data Integration  
+**Duration:** 2 months
 
 ### Description
-Created an end-to-end customer analytics solution to track customer behavior, purchase patterns, and lifetime value.
+Conducted an end-to-end analysis on global food insecurity trends from 2000–2022 using multi-agency datasets.
 
-### Components
-- ETL pipeline for data consolidation
-- Interactive dashboards for sales teams
-- Customer segmentation analysis
-- Churn prediction model
+### Key Components
+- Integrated data from IMF, FAO, OECD, WHO, and World Bank  
+- Developed interactive Tableau dashboards  
+- Performed trend analysis and identified root causes  
+- Provided insights into global socio-economic and environmental drivers  
 
 ### Outcomes
-- Improved customer retention by 15%
-- Identified high-value customer segments
-- Enhanced sales team targeting
+- Delivered actionable insights on long-term food insecurity patterns  
+- Highlighted critical risk areas for policymakers  
+- Improved stakeholder understanding through data storytelling  
 
 ---
 
-## Warehouse Efficiency Analysis
-Technologies: Python, Tableau, Process Mining  
-Duration: 2 months
+## Firm Bankruptcy Prediction Model  
+**Technologies:** SAS Enterprise Miner, XGBoost, DNN  
+**Duration:** 3 months
 
 ### Description
-Analyzed warehouse operations to identify bottlenecks and recommend process improvements.
+Built machine learning models to predict firm bankruptcy risk based on financial indicators, operational metrics, and historical records.
 
-### Methodology
-- Process mapping and workflow analysis
-- Time-motion studies
-- Data-driven optimization recommendations
-- ROI calculations
+### Technical Methodology
+- Data cleansing and variable selection  
+- Developed XGBoost and Deep Neural Network models  
+- Conducted cross-validation and performance tuning  
+- Compared model accuracy and reliability  
+
+### Results
+- Achieved **97.60% accuracy** with Deep Neural Network  
+- Achieved **96.89% accuracy** using XGBoost  
+- Enabled proactive risk management insights for financial forecasting  
+
+---
+
+## Inventory Management Analytics (Capstone Project)  
+**Technologies:** Excel, Power BI, QuickBooks CRM  
+**Duration:** 4 months
+
+### Description
+Analyzed inventory and sales performance for 500+ SKUs to reduce excess inventory and improve stock turnover.
+
+### Key Contributions
+- Designed Excel dashboards integrated with QuickBooks  
+- Analyzed SKU performance and supplier reliability  
+- Improved forecasting by aligning demand cycles with purchasing behavior  
 
 ### Achievements
-- 20% increase in picking efficiency
-- Reduced labor costs by 12%
-- Streamlined receiving processes
+- Reduced excess inventory by **5%**  
+- Increased stock turnover by **13%**  
+- Improved reporting accuracy by **20%**  
 
 ---
 
