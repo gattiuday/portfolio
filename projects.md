@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-# 📊 Featured Projects
+# Featured Projects
 
 ## NCAA Women’s Basketball Ticket Sales Forecast  
 **Technologies:** Python, XGBoost, Deep Neural Networks  
@@ -83,5 +83,3 @@ Analyzed inventory and sales performance for 500+ SKUs to reduce excess inventor
 - Improved reporting accuracy by **20%**  
 
 ---
-
-[← Back to Home](index.md)
