@@ -3,7 +3,7 @@ layout: default
 title: Technical Skills
 ---
 
-# 🧰 Technical Skills
+# Technical Skills
 
 ## Software Expertise
 
@@ -110,5 +110,3 @@ title: Technical Skills
 - Problem-solving  
 
 ---
-
-[← Back to Home](index.md)
