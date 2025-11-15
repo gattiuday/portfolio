@@ -1,24 +1,32 @@
-<h1>About Me</h1>
+---
+layout: default
+title: About Me
+---
 
-<h2>Professional Summary</h2>
-<p>
-I am a Supply Chain Data Analyst with 2 years of experience transforming complex datasets into insights that drive process optimization, cost reduction, and strategic decision-making.
-</p>
+# About Me
 
-<h2>Background</h2>
-<ul>
-  <li>Supply chain optimization and inventory management</li>
-  <li>Data analysis, SQL, Python, and statistical modeling</li>
-  <li>Process improvement and operational efficiency</li>
-  <li>Team leadership and cross-functional collaboration</li>
-  <li>Customer relationship and resource management</li>
-</ul>
+## Professional Summary
 
-<h2>What I Do</h2>
-<ul>
-  <li><strong>Data Analysis:</strong> Clean, analyze, and visualize data using Python, R, and BI tools</li>
-  <li><strong>Supply Chain Optimization:</strong> Enhance forecasting, reduce waste, and streamline operations</li>
-  <li><strong>Business Intelligence:</strong> Develop dashboards and reports for leadership</li>
-  <li><strong>Process Improvement:</strong> Identify bottlenecks and develop actionable solutions</li>
-  <li><strong>Team Leadership:</strong> Guide technical and operational teams toward data-driven decisions</li>
-</ul>
+I am a Supply Chain Data Analyst with 2 years of experience turning complex operational data into meaningful insights that improve inventory performance, reduce costs, and inform strategic decision-making. I specialize in transforming raw data into clear, actionable strategies and leading teams through process optimization initiatives.
+
+## Background
+
+I am passionate about using analytics to solve real-world supply chain challenges. My background includes:
+
+- Supply chain optimization and inventory planning  
+- Exploratory data analysis and statistical modeling  
+- Process improvement and operational efficiency  
+- Cross-functional collaboration and stakeholder communication  
+- Customer and resource management  
+
+## What I Do
+
+- **Data Analysis:** Use Python, R, SQL, and analytical tools to uncover insights and trends  
+- **Supply Chain Optimization:** Improve forecasting, inventory accuracy, and operational workflows  
+- **Business Intelligence:** Build dashboards, KPIs, and visualizations for leadership and operations teams  
+- **Process Improvement:** Identify inefficiencies and drive solutions that reduce waste and enhance output  
+- **Team Leadership:** Mentor teams in applying data-driven methods to supply chain challenges  
+
+---
+
+[← Back to Home](index.md)
