@@ -3,82 +3,111 @@ layout: default
 title: Technical Skills
 ---
 
-# Technical Skills
+# 🧰 Technical Skills
 
 ## Software Expertise
 
-### Scripting Languages
-- Python
-- R
+### Scripting & Programming
+- Python  
+- R  
 
 ### Databases
-- MySQL
-- NoSQL
-- BigQuery
+- MySQL  
+- NoSQL  
+- Google BigQuery  
 
-### CRM Tools
-- Salesforce
-- HubSpot
-- Microsoft Dynamics
+### CRM & Business Tools
+- Microsoft Dynamics 365  
+- Zoho CRM  
+- Salesforce  
+- QuickBooks  
+- HubSpot  
 
-### Supply Chain & ERP Systems
-- SAP
-- Oracle SCM
-- JDA/Blue Yonder
-- Manhattan Associates
+### Cloud Platforms
+- Google Cloud Platform (GCP)  
+- Amazon Web Services (AWS)  
+- Microsoft Azure  
 
-## Data Analysis & Visualization
+### Business Intelligence Tools
+- Tableau  
+- Power BI  
+- Looker  
+- Amazon QuickSight  
+- Oracle BI  
 
-### Analytics Tools
-- Tableau
-- Power BI
-- Google Analytics
-- Microsoft Excel (Advanced)
+### Excel (Advanced)
+- Pivot Tables  
+- XLOOKUP  
+- VBA & Macros  
+- Data modeling & automation  
 
-### Statistical Analysis
-- Statistical modeling
-- Predictive analytics
-- A/B testing
-- Regression analysis
+---
+
+## Data Analysis & Machine Learning
+
+### Core Analytics
+- Data mining  
+- Data preprocessing  
+- Data modeling  
+- Big Data concepts  
+
+### Statistical & ML Techniques
+- Statistical modeling  
+- Predictive analytics  
+- Regression analysis  
+- Machine learning algorithms  
+- Time-series forecasting  
+
+### ETL & Data Processing
+- ETL pipelines  
+- Data cleaning  
+- Data transformation  
+- API integration  
+
+---
 
 ## Supply Chain Competencies
 
-### Core Skills
-- Inventory optimization
-- Demand forecasting
-- Supply chain analytics
-- Logistics management
-- Procurement analysis
-- Warehouse management systems
+### Operations & Analytics
+- Inventory optimization  
+- Demand forecasting  
+- Supply chain data analysis  
+- Resource management  
+- Logistics analytics  
+- Vendor & supplier performance tracking  
 
 ### Process Improvement
-- Lean Six Sigma methodologies
-- Process mapping
-- Root cause analysis
-- KPI development and tracking
+- Process mapping  
+- Root cause analysis  
+- KPI design & tracking  
+- Workflow optimization  
+- Agile & Scrum methodologies  
+
+---
 
 ## Technical Capabilities
 
-### Data Management
-- Data cleaning and preprocessing
-- ETL processes
-- Data warehousing
-- API integration
+### Automation & Development
+- Python automation scripts  
+- SQL query optimization  
+- R for statistical computing  
+- Git version control  
 
-### Programming & Development
-- SQL query optimization
-- Python scripting for automation
-- R for statistical analysis
-- Version control (Git)
+### Reporting & Dashboards
+- KPI dashboards  
+- Automated reporting  
+- Data visualization  
+- Executive reporting tools  
+
+---
 
 ## Soft Skills
-
-- Team leadership
-- Cross-functional collaboration
-- Project management
-- Stakeholder communication
-- Problem-solving
-- Analytical thinking
+- Team leadership  
+- Cross-functional collaboration  
+- Stakeholder communication  
+- Project coordination  
+- Analytical thinking  
+- Problem-solving  
 
 ---
 
