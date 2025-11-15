@@ -30,21 +30,21 @@ Chennai, India
 
 ## Certifications
 
-### 🎯 Google Data Analytics Professional Certificate  
+### Google Data Analytics Professional Certificate  
 **Google** | 2024  
 - Data preparation and cleaning  
 - Data visualization with Tableau  
 - SQL and R programming for analysis  
 - Case study portfolio development  
 
-### 📊 IBM Data Analyst Professional Certificate  
+### IBM Data Analyst Professional Certificate  
 **IBM** | 2024  
 - Python for data analytics  
 - Data visualization techniques  
 - Statistical analysis  
 - SQL database management  
 
-### 📈 Microsoft Certified: Power BI Data Analyst Associate  
+### Microsoft Certified: Power BI Data Analyst Associate  
 **Microsoft** | 2024  
 - Data modeling and visualization  
 - DAX for analytical calculations  
