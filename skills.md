@@ -3,7 +3,7 @@ layout: default
 title: Technical Skills
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ## Software Expertise
 
