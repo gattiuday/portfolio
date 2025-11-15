@@ -28,5 +28,3 @@ I am passionate about using analytics to solve real-world supply chain challenge
 - **Team Leadership:** Mentor teams in applying data-driven methods to supply chain challenges  
 
 ---
-
-[← Back to Home](index.md)
