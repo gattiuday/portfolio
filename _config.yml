@@ -1,14 +1,120 @@
-title: Uday Gatti
-description: Data Analyst | Analytics & Systems Professional
-email: gattiuday@gmail.com
-location: Phoenix, AZ
-linkedin_url: https://in.linkedin.com/in/gattiuday
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Uday Gatti</title>
+  <meta name="description" content="Contact page for Uday Gatti — Supply Chain Data Analyst. Email, LinkedIn, and location details.">
+  <style>
+    :root {
+      --bg:#ffffff;
+      --card:#f8f9fb;
+      --muted:#6b7280;
+      --accent:#0f172a;
+      --radius:12px;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+    }
+    body {
+      margin:0;
+      background:#ffffff;
+      color:var(--accent);
+      line-height:1.5;
+    }
+    .container {
+      max-width:900px;
+      margin:40px auto;
+      padding:20px;
+    }
+    header {
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:32px;
+    }
+    nav ul {
+      display:flex;
+      gap:14px;
+      list-style:none;
+      padding:0;
+      margin:0;
+    }
+    nav a {
+      text-decoration:none;
+      color:var(--muted);
+      font-weight:600;
+    }
+    nav a:hover {
+      color:var(--accent);
+    }
+    .card {
+      background:var(--card);
+      padding:24px;
+      border-radius:var(--radius);
+      border:1px solid rgba(15,23,42,0.06);
+      box-shadow:0 4px 12px rgba(0,0,0,0.04);
+    }
+    h1 {
+      margin-top:0;
+      font-size:1.8rem;
+    }
+    .info {
+      margin-top:12px;
+    }
+    .info div {
+      margin-bottom:14px;
+      font-size:1.05rem;
+    }
+    .muted {
+      color:var(--muted);
+    }
+    footer {
+      margin-top:30px;
+      text-align:center;
+      color:var(--muted);
+      font-size:0.9rem;
+    }
+    a {
+      color:var(--accent);
+      text-decoration:none;
+    }
+  </style>
+</head>
 
-# Navigation
-header_pages:
-  - about.md
-  - skills.md
-  - experience.md
-  - projects.md
-  - education.md
-  - contact.md
+<body>
+  <div class="container">
+
+    <header>
+      <h2 style="margin:0;">Uday Gatti</h2>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="skills.html">Skills</a></li>
+          <li><a href="experience.html">Experience</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="education.html">Education</a></li>
+          <li><a href="contact.html" style="color:var(--accent);">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="card">
+        <h1>Contact</h1>
+        <p class="muted">Feel free to reach out for opportunities, collaborations, or networking.</p>
+
+        <div class="info">
+          <div><strong>Email:</strong> <a href="mailto:gattiuday@gmail.com">gattiuday@gmail.com</a></div>
+          <div><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/gattiuday" target="_blank">linkedin.com/in/gattiuday</a></div>
+          <div><strong>Location:</strong> Phoenix, AZ (Open to relocation)</div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      © 2025 Uday Gatti • All Rights Reserved
+    </footer>
+
+  </div>
+</body>
+</html>
