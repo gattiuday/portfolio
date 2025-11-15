@@ -22,12 +22,3 @@ I am a Supply Chain Data Analyst with 2 years of experience transforming complex
   <li><strong>Process Improvement:</strong> Identify bottlenecks and develop actionable solutions</li>
   <li><strong>Team Leadership:</strong> Guide technical and operational teams toward data-driven decisions</li>
 </ul>
-
-<h2>Contact</h2>
-<p>
-📧 gattiuday@gmail.com<br>
-🔗 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a><br>
-📍 Phoenix, AZ
-</p>
-
-<a href="index.md">← Back to Home</a>
