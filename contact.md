@@ -18,10 +18,11 @@ I'm always open to discussing data analytics opportunities, supply chain challen
 [Connect with me on LinkedIn](https://linkedin.com/in/gattiuday)
 
 **Instagram**
-[@_uday__naidu_](https://www.instagram.com/_uday__naidu_/)
+[_uday__naidu_](https://www.instagram.com/_uday__naidu_/)
 
 **Phone**
 5515564585
+5515564584
 
 ---
 
