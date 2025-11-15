@@ -3,7 +3,7 @@ layout: default
 title: Experience
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Inventory & Sales Data Analyst  
 **Gran Trade Inc** — Carlstadt, NJ  
@@ -72,5 +72,3 @@ title: Experience
 - Stakeholder management  
 
 ---
-
-[← Back to Home](index.md)
