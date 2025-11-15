@@ -3,11 +3,11 @@ layout: default
 title: Projects
 ---
 
-# 💻 Featured Projects
+# Featured Projects
 
 ## Supply Chain Optimization Dashboard
-**Technologies**: Python, Tableau, SQL  
-**Duration**: 6 months
+Technologies: Python, Tableau, SQL  
+Duration: 6 months
 
 ### Description
 Developed a comprehensive supply chain analytics dashboard to monitor inventory levels, track supplier performance, and optimize warehouse operations.
@@ -21,13 +21,13 @@ Developed a comprehensive supply chain analytics dashboard to monitor inventory 
 ### Impact
 - 📈 Reduced excess inventory by 25%
 - ⏱️ Improved order fulfillment time by 30%
-- 💰 Identified $500K in cost savings opportunities
+- Identified $500K in cost savings opportunities
 
 ---
 
 ## Predictive Inventory Model
-**Technologies**: Python, R, Machine Learning  
-**Duration**: 4 months
+Technologies: Python, R, Machine Learning  
+Duration: 4 months
 
 ### Description
 Built a machine learning model to predict inventory demand and optimize stock levels across multiple distribution centers.
@@ -46,8 +46,8 @@ Built a machine learning model to predict inventory demand and optimize stock le
 ---
 
 ## Customer Analytics Platform
-**Technologies**: SQL, Power BI, Excel  
-**Duration**: 3 months
+Technologies: SQL, Power BI, Excel  
+Duration: 3 months
 
 ### Description
 Created an end-to-end customer analytics solution to track customer behavior, purchase patterns, and lifetime value.
@@ -66,8 +66,8 @@ Created an end-to-end customer analytics solution to track customer behavior, pu
 ---
 
 ## Warehouse Efficiency Analysis
-**Technologies**: Python, Tableau, Process Mining  
-**Duration**: 2 months
+Technologies: Python, Tableau, Process Mining  
+Duration: 2 months
 
 ### Description
 Analyzed warehouse operations to identify bottlenecks and recommend process improvements.
