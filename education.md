@@ -3,7 +3,7 @@ layout: default
 title: Education
 ---
 
-# 🎓 Education
+# Education
 
 ## University of Bridgeport, Ernest C. Trefz School of Business  
 **Master of Science in Analytics and Systems**  
@@ -59,5 +59,3 @@ Chennai, India
 - Data governance and quality management  
 
 ---
-
-[← Back to Home](index.md)
