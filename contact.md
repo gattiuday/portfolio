@@ -55,9 +55,9 @@ Full-time opportunities | Consulting projects | Networking | Knowledge sharing
 
 ### Ready to turn data into decisions?
 
-<!-- Note: Sign up at https://web3forms.com to get your free access key and replace YOUR_ACCESS_KEY_HERE below -->
+<!-- Note: Sign up at https://web3forms.com to get your free access key and replace d4799f32-57a5-4978-b9d6-8e6c7142980b below -->
 <form action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+  <input type="hidden" name="access_key" value="d4799f32-57a5-4978-b9d6-8e6c7142980b">
   <input type="text" name="name" placeholder="Your Name" required style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;">
   <input type="email" name="email" placeholder="Your Email" required style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;">
   <textarea name="message" placeholder="Your Message" rows="5" required style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;"></textarea>
