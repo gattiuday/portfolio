@@ -28,11 +28,6 @@ Phone
 <!-- LinkedIn Badge Script -->
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<!-- LinkedIn Badge 1 -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gattiuday" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gattiuday?trk=profile-badge">Uday Gatti</a></div>
-
-<!-- LinkedIn Badge 2 -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gattiuday" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gattiuday?trk=profile-badge">Uday Gatti</a></div>
 
 ---
 
