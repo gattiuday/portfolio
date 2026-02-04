@@ -5,9 +5,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Uday Gatti - Data & Supply Chain Analyst</title>
+
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
+
+    <!-- React & ReactDOM (UMD) -->
+    <script crossorigin src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+
+    <!-- React Compatibility Shim for Lucide -->
+    <script>
+        window.react = window.React;
+        window.reactDOM = window.ReactDOM;
+    </script>
+
+    <!-- Lucide React (UMD) -->
+    <script src="https://unpkg.com/lucide-react@0.344.0/dist/umd/lucide-react.min.js"></script>
+
+    <!-- Babel for in-browser JSX -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
     <script>
         tailwind.config = {
             theme: {
@@ -19,16 +40,7 @@
             }
         }
     </script>
-    <script type="importmap">
-        {
-          "imports": {
-            "react": "https://esm.sh/react@18.2.0",
-            "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
-            "lucide-react": "https://esm.sh/lucide-react@0.263.1"
-          }
-        }
-    </script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -50,10 +62,13 @@
 <body class="bg-white">
     <div id="root"></div>
 
-    <script type="text/babel" data-type="module">
-        import React, { useState, useEffect } from 'react';
-        import { createRoot } from 'react-dom/client';
-        import {
+    <script type="text/babel">
+        // UMD Global Access
+        const { useState, useEffect } = React;
+        const { createRoot } = ReactDOM;
+
+        // Destructure icons from the LucideReact global
+        const {
             Linkedin,
             Mail,
             MapPin,
@@ -80,13 +95,22 @@
             Navigation,
             ExternalLink,
             Search,
-            Command
-        } from 'lucide-react';
+            Command,
+            MousePointer2,
+            Activity
+        } = LucideReact;
 
         const App = () => {
             const [activeSection, setActiveSection] = useState('experience');
             const [copied, setCopied] = useState(false);
             const [isContactVisible, setIsContactVisible] = useState(false);
+            const [scrolled, setScrolled] = useState(false);
+
+            useEffect(() => {
+                const handleScroll = () => setScrolled(window.scrollY > 50);
+                window.addEventListener('scroll', handleScroll);
+                return () => window.removeEventListener('scroll', handleScroll);
+            }, []);
 
             const personalInfo = {
                 name: "Uday Gatti",
@@ -98,10 +122,20 @@
                 summary: "Architecting efficiency through data. I specialize in transforming fragmented supply chain variables into predictive logistics models that drive measurable ROI."
             };
 
+            // Fixed copy function for iFrame compatibility (Antigravity deployment)
             const copyEmail = () => {
-                navigator.clipboard.writeText(personalInfo.email);
-                setCopied(true);
-                setTimeout(() => setCopied(false), 2000);
+                const textArea = document.createElement("textarea");
+                textArea.value = personalInfo.email;
+                document.body.appendChild(textArea);
+                textArea.select();
+                try {
+                    document.execCommand('copy');
+                    setCopied(true);
+                    setTimeout(() => setCopied(false), 2000);
+                } catch (err) {
+                    console.error('Fallback: Unable to copy', err);
+                }
+                document.body.removeChild(textArea);
             };
 
             const skillSets = [
@@ -170,7 +204,7 @@
                 <div className="min-h-screen bg-white text-slate-900 font-sans selection:bg-indigo-600 selection:text-white">
 
                     {/* Dynamic Command Center Header */}
-                    <header className="fixed top-0 left-0 right-0 z-[100] bg-white/70 backdrop-blur-xl border-b border-slate-100">
+                    <header className={`fixed top-0 left-0 right-0 z-[100] transition-all duration-300 ${scrolled ? 'bg-white/70 backdrop-blur-xl border-b border-slate-100 shadow-sm' : 'bg-transparent border-transparent'}`}>
                         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
                             <div className="flex items-center gap-4">
                                 <div className="w-10 h-10 bg-slate-900 rounded-xl flex items-center justify-center rotate-3 hover:rotate-0 transition-transform cursor-pointer group">
